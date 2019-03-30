@@ -106,18 +106,18 @@ https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-f
 ## How to
 
 - Fill in the form by typing the name of the desired **City**
-![city](images/5.PNG)
+>![city](images/5.PNG)
 
 - Add the **Country** of that city
-![country](images/6.PNG)
+>![country](images/6.PNG)
 <br>
 
 - Click **Get Weather** button
-![result](images/2.PNG)
+>![result](images/2.PNG)
 <br>
 
 - And see the result :)
-![result](images/7.PNG)
+>![result](images/7.PNG)
 
 ## API reference
 
