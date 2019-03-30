@@ -110,11 +110,9 @@ https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-f
 
 - Add the **Country** of that city
 >![country](images/6.PNG)
-<br>
 
 - Click **Get Weather** button
 >![result](images/2.PNG)
-<br>
 
 - And see the result :)
 >![result](images/7.PNG)
