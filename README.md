@@ -1,4 +1,4 @@
-# ![WebApp](images/1.png)
+# ![Weather Finder](images/1.png)
 # Weather Finder
 <table>
 <tr>
