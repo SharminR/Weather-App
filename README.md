@@ -12,7 +12,7 @@
 
 - [Motivation](#motivation)
 - [Description of features](#description-of-features)
-- [Installation and set up guide](description-of-features)
+- [Installation and set up guide](#installation-and-set-up-guide)
 - [How to](#how-to)
 - [API reference](#api-reference)
 - [Built with](#built-with)
