@@ -1,4 +1,4 @@
-# ![Weather Finder](images/1.png)
+# ![Weather Finder](images/1.PNG)
 # Weather Finder
 <table>
 <tr>
@@ -29,7 +29,7 @@
 
 ## Description of features
 
-The app asks for specific city name and the name of the country where the city belongs. If the user **clicks** on the button ![alt text](images/2.png "Get Weather") the user can get the current **Location**, **Temperature**, **Humidity** & **Conditions** of the city that was in the input. In case the user doesn't give any input and clicks the button, then the user gets **warning messsage**: ![enter](images/3.png)
+The app asks for specific city name and the name of the country where the city belongs. If the user **clicks** on the button ![alt text](images/2.PNG "Get Weather") the user can get the current **Location**, **Temperature**, **Humidity** & **Conditions** of the city that was in the input. In case the user doesn't give any input and clicks the button, then the user gets **warning messsage**: ![enter](images/3.PNG)
 
 ## Installation and set up guide
 
@@ -101,22 +101,23 @@ https://facebook.github.io/create-react-app/docs/deployment
 https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 
 - Make sure these two links are available in the `index.html` file<br>
-![font&css](images/4.png)
+![font&css](images/4.PNG)
 
 ## How to
 
 - Fill in the form by typing the name of the desired **City**
-![city](images/5.png)
+![city](images/5.PNG)
 
 - Add the **Country** of that city
-![country](images/6.png)
+![country](images/6.PNG)
 <br>
 
 - Click **Get Weather** button
-![result](images/2.png)
+![result](images/2.PNG)
 <br>
+
 - And see the result :)
-![result](images/7.png)
+![result](images/7.PNG)
 
 ## API reference
 
