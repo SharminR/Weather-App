@@ -134,5 +134,5 @@ Working app demo: https://my-weather-app-6e145.firebaseapp.com/
 - website: https://sharmins-portfolio-2019.firebaseapp.com/
 - e-mail: sharmin.rahman@outlook.com
 
-##License
+## License
 Released under the [MIT License](https://opensource.org/licenses/MIT).
